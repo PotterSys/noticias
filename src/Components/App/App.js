@@ -18,7 +18,7 @@ class App extends React.Component {
       src: 'https://www.youtube.com/embed/bOvhCYr1NYk?autoplay=0&mute=0&vq=medium&enablejsapi=1&modestbranding=1&showinfo=0'
     }, {
       title: 'Meganoticias',
-      src: 'https://www.youtube.com/embed/mvjj_ZEw384?autoplay=0&mute=0&vq=medium&enablejsapi=1&modestbranding=1&showinfo=0'
+      src: 'https://www.youtube.com/embed/tUmseNWVu58?autoplay=0&mute=0&vq=medium&enablejsapi=1&modestbranding=1&showinfo=0'
     }, {
       title: 'CHV',
       src: 'https://mdstrm.com/live-stream/5c6c302a414cc5496c9d7d79?jsapi=true&autoplay=false&volume=100'
